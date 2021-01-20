@@ -1,0 +1,1 @@
+mvn clean install -Dmaven.compiler.showWarnings=true
